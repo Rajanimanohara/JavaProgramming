@@ -7,7 +7,7 @@ public class IncrementDecrement
 		
 		int x=0;
 		int y=0;
-		//for loop 1st and 2nd
+		//for loop
 		for(int z=0;z<5;z++)
 		{
 			if((++x)>2 && (++y)>2)
